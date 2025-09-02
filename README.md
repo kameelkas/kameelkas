@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Kameel!
 
 🎓 Final-year Software Engineering student | 💻 Passionate about building scalable software & exploring new technologies.  
 
