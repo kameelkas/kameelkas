@@ -12,10 +12,10 @@
 ---
 
 ### ⚡ Tech Stack
-💻 **Languages:** C++/C, Java, Python, JavaScript
-🛠️ **Frameworks & Tools:** Next.js, React, MFCShell
-☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-🗄️ **Databases:** MySQL 
+- 💻 **Languages:** C++/C, Java, Python, JavaScript
+- 🛠️ **Frameworks & Tools:** Next.js, React, MFCShell
+- ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+- 🗄️ **Databases:** MySQL 
 
 ---
 
