@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name]
 
-<!--
-**kameelkas/kameelkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering student | 💻 Passionate about building scalable software & exploring new technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on **[PAO Fashionz](https://www.paofashionz.ca/)**
+- 💡 Interested in **full-stack development, and cybersecurity**
+- 📫 Reach me: kameelkas@gmail.com | [LinkedIn](https://www.linkedin.com/in/ka-kasumu)
+
+---
+
+### ⚡ Tech Stack
+💻 **Languages:** C++/C, Java, Python, JavaScript
+🛠️ **Frameworks & Tools:** Next.js, React, MFCShell
+☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+🗄️ **Databases:** MySQL 
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kameelkas&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kameelkas&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kameelkas&theme=radical)
+
+---
