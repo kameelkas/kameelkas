@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kameel!
 
-🎓 Final-year Software & Mechatronics Engineering student | 💻 Passionate about building scalable software that has a real impact & exploring new technologies.  
+🎓 Recent Software & Mechatronics Engineering graduate from the University of Calgary | 💻 Passionate about building scalable software that has a real impact & exploring new technologies.  
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 ### ⚡ Tech Stack
-- 💻 **Languages:** C++/C, Java, Python, JavaScript
+- 💻 **Languages:** C++/C, Java, Python, JavaScript, TypeScript
 - 🛠️ **Frameworks & Tools:** Next.js, React, MFCShell
 - ☁️ **Cloud & DevOps:** AWS, GitHub Actions  
 
