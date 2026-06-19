@@ -19,9 +19,6 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=kameelkas&theme=tokyonight)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=kameelkas&type=languages&theme=dracula&chart=pie)
-![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=kameelkas&type=contributions&theme=dark)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=kameelkas&type=top-repos&theme=radical)
+![GitHub Stats](https://raw.githubusercontent.com/kameelkas/kameelkas/main/stats.svg)
 
 ---
