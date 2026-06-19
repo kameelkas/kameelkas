@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="310" viewBox="0 0 920 310" role="img" aria-label="GitHub Stats for Kameel Kasumu">
+  <defs>
+    <style>
+      .card { fill: #0d1117; rx: 12; }
+      .title { font: 600 15px 'Segoe UI', sans-serif; fill: #e6edf3; }
+      .subtitle { font: 400 11px 'Segoe UI', sans-serif; fill: #7d8590; }
+      .label { font: 400 12px 'Segoe UI', sans-serif; fill: #8b949e; }
+      .value { font: 600 12px 'Segoe UI', sans-serif; fill: #e6edf3; }
+      .divider { stroke: #21262d; stroke-width: 1; }
+      .accent { fill: #238636; }
+      .lang-name { font: 400 11px 'Segoe UI', sans-serif; fill: #8b949e; }
+      .lang-pct  { font: 600 11px 'Segoe UI', sans-serif; fill: #e6edf3; }
+      .streak-num { font: 700 28px 'Segoe UI', sans-serif; fill: #f78166; }
+      .streak-lbl { font: 400 11px 'Segoe UI', sans-serif; fill: #7d8590; }
+    </style>
+  </defs>
+
+  <!-- Left panel: Stats -->
+  <rect x="0" y="0" width="300" height="310" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="25" y="38" class="title">📊 Kameel Kasumu's GitHub Stats</text>
+  <text x="25" y="56" class="subtitle">@kameelkas · Updated Jun 19, 2026</text>
+  <line x1="25" y1="68" x2="275" y2="68" class="divider"/>
+
+  <!-- Streak badge -->
+  <rect x="210" y="22" width="68" height="36" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="244" y="38" class="streak-num" text-anchor="middle">1</text>
+  <text x="244" y="52" class="streak-lbl" text-anchor="middle">day streak</text>
+
+  <!-- Stat rows -->
+  
+  <text x="25" y="100" class="label">⭐ Total Stars Earned</text>
+  <text x="295" y="100" class="value" text-anchor="end">4</text>
+  <line x1="25" y1="106" x2="295" y2="106" class="divider"/>
+  
+  <text x="25" y="126" class="label">🍴 Total Forks</text>
+  <text x="295" y="126" class="value" text-anchor="end">2</text>
+  <line x1="25" y1="132" x2="295" y2="132" class="divider"/>
+  
+  <text x="25" y="152" class="label">💻 Total Commits (this year)</text>
+  <text x="295" y="152" class="value" text-anchor="end">168</text>
+  <line x1="25" y1="158" x2="295" y2="158" class="divider"/>
+  
+  <text x="25" y="178" class="label">🔀 Pull Requests</text>
+  <text x="295" y="178" class="value" text-anchor="end">27</text>
+  <line x1="25" y1="184" x2="295" y2="184" class="divider"/>
+  
+  <text x="25" y="204" class="label">🐛 Issues Opened</text>
+  <text x="295" y="204" class="value" text-anchor="end">4</text>
+  <line x1="25" y1="210" x2="295" y2="210" class="divider"/>
+  
+  <text x="25" y="230" class="label">🏗️ Repos Contributed To</text>
+  <text x="295" y="230" class="value" text-anchor="end">5</text>
+  <line x1="25" y1="236" x2="295" y2="236" class="divider"/>
+  
+  <text x="25" y="256" class="label">👥 Followers</text>
+  <text x="295" y="256" class="value" text-anchor="end">3</text>
+  <line x1="25" y1="262" x2="295" y2="262" class="divider"/>
+  
+  <text x="25" y="282" class="label">📦 Public Repos</text>
+  <text x="295" y="282" class="value" text-anchor="end">17</text>
+  <line x1="25" y1="288" x2="295" y2="288" class="divider"/>
+
+  <!-- Right panel: Languages -->
+  <rect x="320" y="0" width="300" height="310" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="345" y="38" class="title">🛠️ Top Languages</text>
+  <text x="345" y="56" class="subtitle">by repository count</text>
+  <line x1="345" y1="68" x2="595" y2="68" class="divider"/>
+
+  <g transform="translate(320, 0)">
+    
+  <rect x="25" y="108" width="270" height="6" rx="3" fill="#2a2a3a"/>
+  <rect x="25" y="108" width="101" height="6" rx="3" fill="#3572A5"/>
+  <text x="25" y="126" class="lang-name">Python</text>
+  <text x="295" y="126" class="lang-pct" text-anchor="end">37.5%</text>
+  <rect x="25" y="142" width="270" height="6" rx="3" fill="#2a2a3a"/>
+  <rect x="25" y="142" width="84" height="6" rx="3" fill="#f1e05a"/>
+  <text x="25" y="160" class="lang-name">JavaScript</text>
+  <text x="295" y="160" class="lang-pct" text-anchor="end">31.3%</text>
+  <rect x="25" y="176" width="270" height="6" rx="3" fill="#2a2a3a"/>
+  <rect x="25" y="176" width="51" height="6" rx="3" fill="#b07219"/>
+  <text x="25" y="194" class="lang-name">Java</text>
+  <text x="295" y="194" class="lang-pct" text-anchor="end">18.8%</text>
+  <rect x="25" y="210" width="270" height="6" rx="3" fill="#2a2a3a"/>
+  <rect x="25" y="210" width="17" height="6" rx="3" fill="#e34c26"/>
+  <text x="25" y="228" class="lang-name">HTML</text>
+  <text x="295" y="228" class="lang-pct" text-anchor="end">6.3%</text>
+  <rect x="25" y="244" width="270" height="6" rx="3" fill="#2a2a3a"/>
+  <rect x="25" y="244" width="17" height="6" rx="3" fill="#3178c6"/>
+  <text x="25" y="262" class="lang-name">TypeScript</text>
+  <text x="295" y="262" class="lang-pct" text-anchor="end">6.3%</text>
+  </g>
+</svg>
