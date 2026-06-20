@@ -20,12 +20,12 @@
 
   <!-- Header -->
   <text x="25" y="38" class="title">📊 Kameel Kasumu's GitHub Stats</text>
-  <text x="25" y="56" class="subtitle">@kameelkas · Updated Jun 19, 2026</text>
+  <text x="25" y="56" class="subtitle">@kameelkas · Updated Jun 20, 2026</text>
   <line x1="25" y1="68" x2="275" y2="68" class="divider"/>
 
   <!-- Streak badge -->
   <rect x="210" y="22" width="68" height="36" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-  <text x="244" y="38" class="streak-num" text-anchor="middle">1</text>
+  <text x="244" y="38" class="streak-num" text-anchor="middle">0</text>
   <text x="244" y="52" class="streak-lbl" text-anchor="middle">day streak</text>
 
   <!-- Stat rows -->
