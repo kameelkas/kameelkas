@@ -21,6 +21,5 @@
 ### 📊 GitHub Stats
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Dev Time](./profile/waka-time.svg)
 
 ---
