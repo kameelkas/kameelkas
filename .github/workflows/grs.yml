@@ -34,7 +34,7 @@ jobs:
       - name: Generate Waka Time card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: waka-time
+          card: wakatime
           options: username=${{ github.repository_owner }}&layout=compact
           path: profile/waka-time.svg
           token: ${{ secrets.GITHUB_TOKEN }}
