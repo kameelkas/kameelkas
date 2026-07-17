@@ -19,6 +19,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://raw.githubusercontent.com/kameelkas/kameelkas/main/stats.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Dev Time](./profile/waka-time.svg)
 
 ---
